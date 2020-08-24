@@ -9,6 +9,6 @@ Here is a sample:
 
 Visit this website to create your own code! [TUNIOT](http://easycoding.tn/tuniot/demos/code/).
 
-Install necessary libraries in your Arduino IDE before compiling the code to avoid errors while uploading it to the board.
+Install necessary libraries in your Arduino IDE before compiling the code to avoid errors while uploading it to the board.Make sure the Microcontroller is connected to your computerwhile uploading the code. Make sure the connections are right.In this experiment D0 (GPIO16) pin is used for signal.Use relay module if necessary.Connect a Vcc,ground and signal pin D0(GPIO16) to relay.All right we are done with the setup!
 
 Now we are all set! "Okay Google! Turn on the light" 
