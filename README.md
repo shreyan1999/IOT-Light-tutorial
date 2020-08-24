@@ -6,3 +6,9 @@ Now the webservice is setup.The next thing we have to do is,program the microcon
 
 Here is a sample:
 ![Tuniot.tn](https://github.com/shreyan1999/IOT-Light-tutorial/blob/master/github.png)
+
+Visit this website to create your own code! [TUNIOT](http://easycoding.tn/tuniot/demos/code/).
+
+Install necessary libraries in your Arduino IDE before compiling the code to avoid errors while uploading it to the board.
+
+Now we are all set! "Okay Google! Turn on the light" 
